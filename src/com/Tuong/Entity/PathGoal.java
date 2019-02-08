@@ -1,0 +1,5 @@
+package com.Tuong.Entity;
+
+public enum PathGoal {
+	WANDER,ATTACK,PASSIVEATTACK,FOLLOW,DITUAN,RANDOMPATH,LAMVIEC;
+}
